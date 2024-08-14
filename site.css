@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body{
+    background-color: #4f772d;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width:700px ;
+    padding: 20px;
+    margin: 40px;
+    border-radius: 10px;
+    
+}
+
+.texto{
+    text-align: center;
+    padding: 10px;
+}
+
+.foto img{
+    width: 400px;
+}
+.texto{
+   
+    font-weight: 400;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.nome{
+    font-family: "Bangers", system-ui;
+}
+.poder{
+    display: flex;
+}
+
+.poder img{
+    width: 45px;
+    display: flex;
+    align-items: center;
+    margin: 2px;
+}
+
+.comuns img{
+    width: 45px;
+    margin: 2px;
+}
+.comuns{
+    display: flex;
+    font-family: "Bangers", system-ui;
+}
+.poder{
+    font-family: "Bangers", system-ui;
+    display: flex;
+    align-items: center;
+}
+
